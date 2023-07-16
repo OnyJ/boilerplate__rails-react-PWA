@@ -6,6 +6,7 @@
   "repository": "\"git@github.com:OnyJ/boilerplate__rails-react-PWA.git\"",
   "author": "\"<julien.josselin75@htomail.fr>\"",
   "license": "MIT",
+  "private": true,
   "scripts": {
     "start": "rails server"
   }

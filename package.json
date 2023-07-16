@@ -5,5 +5,15 @@
   "main": "index.js",
   "repository": "git@github.com:OnyJ/boilerplate__rails-react-PWA.git",
   "author": "<julien.josselin75@hotmail.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend",
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "yarn cwd backend start",
+    "build": "yarn cwd frontend build"
+  }
 }
