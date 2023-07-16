@@ -1,0 +1,9 @@
+{
+  "name": "@rails_react_pwa/config",
+  "version": "1.0.0",
+  "description": "Config subfolder of Rails React PWA Boilerplate",
+  "main": "index.js",
+  "repository": "git@github.com:OnyJ/boilerplate__rails-react-PWA.git",
+  "author": "<julien.josselin75@hotmail.fr>",
+  "license": "MIT"
+}
