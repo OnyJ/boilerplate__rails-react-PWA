@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": " Boilerplate for Rails + React monorepo PWA ",
   "main": "index.js",
-  "repository": "git@github.com:OnyJ/boilerplate__rails-react-PWA.git",
+  "repository": "git@github.com:OnyJ/rails_react_pwa.git",
   "author": "<julien.josselin75@hotmail.fr>",
   "license": "MIT",
   "private": true,
